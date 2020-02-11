@@ -1,0 +1,19 @@
+课程进度：第三节结束
+
+组件摆放方式：
+    1、pack()方式 ： 方向、方位摆放方法  top bottom left right
+                    参数：side = 'top'或'bottom'或'left'或'right'
+                         ipadx、ipday 扩展组件内部边距
+                         pdax、pady   扩展组件间间距
+                         fill         沾满整行（x）或整列(y 只适用 left right )或both(结合expand使用)
+                         expand       设置side是否有效（yes 失效）
+
+      示例：tkinter_02.py
+
+
+    2、grid()方式 ： 网格摆放方法       左上角为0,0  行列 适合网格结构
+                    参数：row    设置行数 默认为0
+                         colum  设置列数 默认为0
+       示例：tkinter_03.py
+
+    3、place()方式： 定位摆放方式       左上角为0,0  距离 适合拖放结构
