@@ -1,4 +1,4 @@
-课程进度：第三节结束
+课程进度：第四节结束
 
 组件摆放方式：
     1、pack()方式 ： 方向、方位摆放方法  top bottom left right
@@ -12,8 +12,22 @@
 
 
     2、grid()方式 ： 网格摆放方法       左上角为0,0  行列 适合网格结构
-                    参数：row    设置行数 默认为0
-                         colum  设置列数 默认为0
+                    参数：row         设置行数 默认为0
+                         column      设置列数 默认为0
+                         rowspan     设置跨行数量
+                         columnspan  设置跨列数量
+                         ipadx
+                         ipady
+
        示例：tkinter_03.py
 
     3、place()方式： 定位摆放方式       左上角为0,0  距离 适合拖放结构
+                    绝对定位布局(单位：像素)： x  y
+                                width   设置组件占据的宽度
+                                height  设置组件占据的高度
+
+                    相对定位布局(取值0~1之间)： relx  rely
+                                relwidth   设置组件占据界面的宽度百分比
+                                relheight  设置组件占据界面的高度百分比
+
+       示例：tkinter_04.py
