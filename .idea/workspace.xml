@@ -17,6 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XfZWjrEVX6QFurzsq9eMamcceJ" />
@@ -126,12 +127,20 @@
       <option name="project" value="LOCAL" />
       <updated>1581532108570</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modify files at home.2020.2.13 -2">
+      <created>1581532781370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581532781370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify files at home.2020.2.13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.13" />
+    <MESSAGE value="Modify files at home.2020.2.13 -2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.13 -2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1581439530345">
@@ -142,6 +151,10 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="682" y="349" width="612" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581440718848" />
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2" timestamp="1581532781030">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581532781030" />
     <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1581445002854">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -158,13 +171,25 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1826" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581445002852" />
+    <state x="242" y="116" width="1482" height="872" key="MergeDialog" timestamp="1581532968507">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="242" y="116" width="1482" height="872" key="MergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581532968507" />
+    <state x="697" y="265" width="582" height="574" key="MultipleFileMergeDialog" timestamp="1581532968524">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="697" y="265" width="582" height="574" key="MultipleFileMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581532968524" />
     <state x="475" y="187" key="SettingsEditor" timestamp="1581441916757">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581441916757" />
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581532744490">
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1581533041976">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581532744490" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581533041976" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581689193504">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581689193504" />
   </component>
 </project>
