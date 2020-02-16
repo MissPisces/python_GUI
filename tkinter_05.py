@@ -1,3 +1,5 @@
+#测试中文支持
+
 import tkinter as tk
 import tkinter.font as tkFont
 
