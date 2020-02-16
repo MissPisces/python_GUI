@@ -1,0 +1,15 @@
+ubuntu系统针对tkinter窗口不支持中文的解决办法：
+
+第一步：向ubuntu系统添加中文字体
+1、将字体文件夹复制到/usr/share/fonts中；
+2、执行如下命令：
+   sudo mkfontscale
+   sudo mkfontdir
+   sudo fc-cache -fv
+
+第二步：将字体文件添加到Xwindows字体中
+1、复制字体文件到/usr/share/fonts/X11/misc中；
+2、将第一步添加的字体文件夹中生成的fonts.dir文件内内容复制添加到misc文件夹下fonts.dir文件内容后
+3、重启系统。
+
+执行xlsfonts查看添加是否成功。
