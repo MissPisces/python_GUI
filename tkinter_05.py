@@ -1,18 +1,17 @@
-# -*- coding: utf-8 -*-
-from tkinter import *
-# 引入字体模块
+import tkinter as tk
 import tkinter.font as tkFont
 
-root = Tk()
-# 创建一个Label
-# 指定字体名称、大小、样式
-ft = tkFont.Font(family='', size=50, weight=tkFont.BOLD)
-ft1 = tkFont.Font(size=20, slant=tkFont.ITALIC)
-ft2 = tkFont.Font(size=30, weight=tkFont.BOLD, underline=1, overstrike=1)
+root = tk.Tk()  # must be here
 
-Label(root, text='汉字字体', font=ft).grid()
-Label(root, text='hello python ', font=ft1).grid()
-Label(root, text='good luck', font=ft2).grid()
+screenWidth = root.winfo_screenwidth()
+screenHeight = root.winfo_screenheight()
 
+f1 = tkFont.Font(family='simhei', size=30, weight='bold')
+f2 = tkFont.Font(family='youyuan', size=30, slant='italic')
+f3 = tkFont.Font(family='lisu', size=30, underline=1, overstrike=1)
+f4 = tkFont.Font(size=30)
+tk.Label(root, text='汉字字体', font=f1).pack()
+tk.Label(root, text='汉字字体', font=f2).pack()
+tk.Label(root, text='汉字字体', font=f3).pack()
+tk.Label(root, text='默认汉字字体', font=f4).pack()
 root.mainloop()
-# 使用tkFont.Font来创建字体。
