@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02264644-36f3-4723-8fac-4e2aa310fcae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/button_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/canvas_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkbutton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter 命令" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter 命令" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1XfZWjrEVX6QFurzsq9eMamcceJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,8 +42,74 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.tkinter_03">
+  <component name="RunManager" selected="Python.checkbutton">
+    <configuration name="button_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/button_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="canvas_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/canvas_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="checkbutton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkbutton.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tkinter_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tkinter_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,28 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tkinter_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,8 +154,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tkinter_03" />
-        <item itemvalue="Python.tkinter_02" />
+        <item itemvalue="Python.checkbutton" />
+        <item itemvalue="Python.canvas_01" />
+        <item itemvalue="Python.button_01" />
+        <item itemvalue="Python.tkinter_05" />
         <item itemvalue="Python.tkinter_01" />
       </list>
     </recent_temporary>
@@ -134,43 +187,104 @@
       <option name="project" value="LOCAL" />
       <updated>1581532781370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modify files at home.2020.2.14">
+      <created>1581689272407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581689272407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modify files at home.2020.2.17 -1">
+      <created>1581871054722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581871054722</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modify files at home.2020.2.17 -2">
+      <created>1581871663501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581871663501</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Modify files at home.2020.2.17 -3">
+      <created>1581871826494</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581871826494</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify files at home.2020.2.13" />
     <MESSAGE value="Modify files at home.2020.2.13 -2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.13 -2" />
+    <MESSAGE value="Modify files at home.2020.2.14" />
+    <MESSAGE value="Modify files at home.2020.2.17 -1" />
+    <MESSAGE value="Modify files at home.2020.2.17 -2" />
+    <MESSAGE value="Modify files at home.2020.2.17 -3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.17 -3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1581439530345">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1581439530345" />
-    <state x="682" y="349" width="612" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581440718848">
+    <state x="682" y="349" width="652" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581870967725">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="682" y="349" width="612" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581440718848" />
-    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2" timestamp="1581532781030">
+    <state x="682" y="349" width="652" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581870967725" />
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2" timestamp="1581871826325">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581532781030" />
-    <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1581445002854">
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581871826325" />
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1582221378693">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581445002854" />
-    <state width="1826" height="275" key="GridCell.Tab.0.center" timestamp="1581445002851">
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582221378693" />
+    <state width="1826" height="275" key="GridCell.Tab.0.center" timestamp="1582221378692">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581445002851" />
-    <state width="1826" height="275" key="GridCell.Tab.0.left" timestamp="1581445002851">
+    <state width="1826" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582221378692" />
+    <state width="1826" height="275" key="GridCell.Tab.0.left" timestamp="1582221378691">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581445002851" />
-    <state width="1826" height="275" key="GridCell.Tab.0.right" timestamp="1581445002852">
+    <state width="1826" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582221378691" />
+    <state width="1826" height="275" key="GridCell.Tab.0.right" timestamp="1582221378693">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581445002852" />
+    <state width="1826" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582221378693" />
+    <state width="1826" height="339" key="GridCell.Tab.1.bottom" timestamp="1581798740658">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="339" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581798740658" />
+    <state width="1826" height="339" key="GridCell.Tab.1.center" timestamp="1581798740657">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="339" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581798740657" />
+    <state width="1826" height="339" key="GridCell.Tab.1.left" timestamp="1581798740657">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="339" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581798740657" />
+    <state width="1826" height="339" key="GridCell.Tab.1.right" timestamp="1581798740658">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1826" height="339" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581798740658" />
     <state x="242" y="116" width="1482" height="872" key="MergeDialog" timestamp="1581532968507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -179,17 +293,33 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="697" y="265" width="582" height="574" key="MultipleFileMergeDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581532968524" />
-    <state x="475" y="187" key="SettingsEditor" timestamp="1581441916757">
+    <state x="519" y="197" key="SettingsEditor" timestamp="1581868773068">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581441916757" />
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1581533041976">
+    <state x="519" y="197" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1581868773068" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1581871844729">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581533041976" />
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581689193504">
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581871844729" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582212225537">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581689193504" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582212225537" />
+    <state x="508" y="171" width="960" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581704409032">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="508" y="171" width="960" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581704409032" />
+    <state x="760" y="468" width="457" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581689362171">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="760" y="468" width="457" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581689362171" />
+    <state x="656" y="333" width="664" height="439" key="git4idea.merge.GitPullDialog" timestamp="1582040874936">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="333" width="664" height="439" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582040874936" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1582215927119">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582215927119" />
   </component>
 </project>
