@@ -16,8 +16,8 @@ def func():
     print(result.get())
 
 
-ckb1 = tkinter.Checkbutton(root, bg='red', padx=10, pady=10, text='同意',
-                           font=('simhei', 16, 'bold', 'italic'))
+ckb1 = tkinter.Checkbutton(root, bg='red', padx=20, pady=20, text='同意',
+                           font=('simhei', 20, 'bold', 'italic'))
 ckb1.pack()
 
 # 获取变量名
