@@ -36,4 +36,15 @@
 二、基本属性介绍：
         禁止同时使用两种布局
 
+三、弹出对话框：需要单独导入模块
+    1、消息对话框：     messagebox   显示信息
+
+    2、简单信息对话框：  simpledialog 收集消息
+                        .askstring  获取字符串
+                        .askinteger 获取整型
+                        .askfloat   获取浮点型
+
+    3、文件对话框：     filedialog   获取文件或文件夹相关信息
+
+    4、颜色选取对话框：  colorchooser
 
