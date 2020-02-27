@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02264644-36f3-4723-8fac-4e2aa310fcae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/colorchooser_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eventDemo_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eventDemo_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eventDemo_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eventDemo_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soft_compress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soft_compress_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tkinter 命令" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter 命令" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,56 +36,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.eventDemo_04">
-    <configuration name="colorchooser_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/colorchooser_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="eventDemo_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GUI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/eventDemo_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.soft_compress_02">
     <configuration name="eventDemo_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GUI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +107,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="soft_compress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soft_compress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soft_compress_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GUI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soft_compress_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.soft_compress_02" />
+        <item itemvalue="Python.soft_compress" />
         <item itemvalue="Python.eventDemo_04" />
         <item itemvalue="Python.eventDemo_03" />
         <item itemvalue="Python.eventDemo_02" />
-        <item itemvalue="Python.eventDemo_01" />
-        <item itemvalue="Python.colorchooser_01" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581871826494</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modify files at home.2020.2.27 -1">
+      <created>1582740647156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582740647156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +242,8 @@
     <MESSAGE value="Modify files at home.2020.2.17 -1" />
     <MESSAGE value="Modify files at home.2020.2.17 -2" />
     <MESSAGE value="Modify files at home.2020.2.17 -3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.17 -3" />
+    <MESSAGE value="Modify files at home.2020.2.27 -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify files at home.2020.2.27 -1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1581439530345">
@@ -250,42 +254,42 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="682" y="349" width="652" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1581870967725" />
-    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2" timestamp="1581871826325">
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2" timestamp="1582740647067">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1581871826325" />
-    <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1582740570934">
+    <state x="596" y="137" width="784" height="831" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1582740647067" />
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1582823510707">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582740570934" />
-    <state width="1826" height="275" key="GridCell.Tab.0.center" timestamp="1582740570933">
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582823510707" />
+    <state width="1826" height="275" key="GridCell.Tab.0.center" timestamp="1582823510704">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582740570933" />
-    <state width="1826" height="275" key="GridCell.Tab.0.left" timestamp="1582740570932">
+    <state width="1826" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582823510704" />
+    <state width="1826" height="275" key="GridCell.Tab.0.left" timestamp="1582823510702">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582740570932" />
-    <state width="1826" height="275" key="GridCell.Tab.0.right" timestamp="1582740570933">
+    <state width="1826" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582823510702" />
+    <state width="1826" height="275" key="GridCell.Tab.0.right" timestamp="1582823510705">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582740570933" />
-    <state width="1826" height="339" key="GridCell.Tab.1.bottom" timestamp="1582740568684">
+    <state width="1826" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582823510705" />
+    <state width="1826" height="339" key="GridCell.Tab.1.bottom" timestamp="1582740715248">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="339" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582740568684" />
-    <state width="1826" height="339" key="GridCell.Tab.1.center" timestamp="1582740568682">
+    <state width="1826" height="339" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582740715248" />
+    <state width="1826" height="339" key="GridCell.Tab.1.center" timestamp="1582740715248">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="339" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582740568682" />
-    <state width="1826" height="339" key="GridCell.Tab.1.left" timestamp="1582740568680">
+    <state width="1826" height="339" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582740715248" />
+    <state width="1826" height="339" key="GridCell.Tab.1.left" timestamp="1582740715247">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="339" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582740568680" />
-    <state width="1826" height="339" key="GridCell.Tab.1.right" timestamp="1582740568683">
+    <state width="1826" height="339" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582740715247" />
+    <state width="1826" height="339" key="GridCell.Tab.1.right" timestamp="1582740715248">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1826" height="339" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582740568683" />
+    <state width="1826" height="339" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582740715248" />
     <state x="242" y="116" width="1482" height="872" key="MergeDialog" timestamp="1581532968507">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -298,14 +302,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="519" y="197" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582733981050" />
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1581871844729">
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1582740657190">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1581871844729" />
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582657935152">
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1582740657190" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582816407876">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582657935152" />
+    <state x="648" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582816407876" />
     <state x="508" y="171" width="960" height="763" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581704409032">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
